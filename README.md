@@ -42,22 +42,22 @@
 
 **🤖 Antigravity / Gemini Code Assist:**
 ```bash
-git clone https://github.com/your-repo/novel-writer-skill.git .agent/skills/novel-writer
+git clone https://github.com/your-repo/ai-novel-skill.git .agent/skills/ai-novel-skill
 ```
 
 **🚀 Trae IDE:**
 ```bash
-git clone https://github.com/your-repo/novel-writer-skill.git .trae/skills/novel-writer
+ai-novel-skillgit clone https://github.com/your-repo/ai-novel-skill.git .trae/skills/novel-writer
 ```
 
 **🧠 Claude Code:**
 ```bash
-git clone https://github.com/your-repo/novel-writer-skill.git .claude/skills/novel-writer
+git clone https://github.com/your-repo/ai-novel-skill.git .claude/skills/ai-novel-skill
 ```
 
 **💻 Cursor / VSCode / 通用:**
 ```bash
-git clone https://github.com/your-repo/novel-writer-skill.git skills/novel-writer
+git clone https://github.com/your-repo/ai-novel-skill.git skills/novel-writer
 ```
 
 ### 2. 试试这样跟 AI 说
