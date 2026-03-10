@@ -47,7 +47,7 @@ git clone https://github.com/AI-Practical-Lab/ai-novel-skill.git .agent/skills/a
 
 **🚀 Trae IDE:**
 ```bash
-ai-novel-skillgit clone https://github.com/AI-Practical-Lab/ai-novel-skill.git .trae/skills/novel-writer
+ai-novel-skillgit clone https://github.com/AI-Practical-Lab/ai-novel-skill.git .trae/skills/ai-novel-skill
 ```
 
 **🧠 Claude Code:**
@@ -206,7 +206,7 @@ Step 0: init → Step 1: brainstorm → Step 2: project_init
 当有新功能发布时，您可以输入以下命令一键更新：
 
 ```bash
-cd .trae/skills/novel-writer
+cd .trae/skills/ai-novel-skill
 git pull
 ```
 
